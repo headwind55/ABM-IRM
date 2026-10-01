@@ -5,12 +5,6 @@ __pycache__/
 .ruff_cache/
 .venv/
 venv/
-.env
-.env.*
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
 
 runtime/logs/*
 runtime/output/*
@@ -22,7 +16,3 @@ runtime/mesh_check/*
 !runtime/mesh_check/.gitkeep
 
 *.lock
-*.log
-*.tmp
-*.bak
-*.bak_*
